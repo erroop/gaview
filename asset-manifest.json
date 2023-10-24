@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/gaview/static/css/main.ba58c881.css",
+    "main.js": "/gaview/static/js/main.41d9bc67.js",
+    "static/media/news4.png": "/gaview/static/media/news4.b0b6038545232f9c7c7b.png",
+    "static/media/news1.png": "/gaview/static/media/news1.800b491f4ee361e392eb.png",
+    "static/media/news5.png": "/gaview/static/media/news5.83200120f67a461647bb.png",
+    "static/media/news2.png": "/gaview/static/media/news2.949a778990075e6a7ebd.png",
+    "static/media/news3.png": "/gaview/static/media/news3.dc7e4c839fcf0605a3c3.png",
+    "static/media/news6.png": "/gaview/static/media/news6.0c818c90a88706fae4bc.png",
+    "static/media/MMca1.png": "/gaview/static/media/MMca1.caa1abed528d68126ace.png",
+    "static/media/MMca3.png": "/gaview/static/media/MMca3.14e380ce576585f883f3.png",
+    "static/media/digital_art_9.jpg": "/gaview/static/media/digital_art_9.1486bf39408934936258.jpg",
+    "static/media/digital_art_4.jpg": "/gaview/static/media/digital_art_4.b6e8713379ae0c77eed4.jpg",
+    "static/media/MMca2.jpg": "/gaview/static/media/MMca2.822aedb681d1f3f2f5f5.jpg",
+    "static/media/digital_art_2.jpg": "/gaview/static/media/digital_art_2.bd7447eaf366d78982c0.jpg",
+    "static/media/digital_art_6.jpg": "/gaview/static/media/digital_art_6.7d63f57086925aaca43f.jpg",
+    "static/media/digital_art_7.jpg": "/gaview/static/media/digital_art_7.0d0a687918d1005497fc.jpg",
+    "static/media/digital_art_1.jpg": "/gaview/static/media/digital_art_1.dce7513ad09c676240d2.jpg",
+    "static/media/digital_art_5.jpg": "/gaview/static/media/digital_art_5.73bcf3623cd986d71a2b.jpg",
+    "static/media/digital_art_8.jpg": "/gaview/static/media/digital_art_8.5447a1204e02482076b7.jpg",
+    "static/media/digital_art_3.jpg": "/gaview/static/media/digital_art_3.618d42e83621c7ea914e.jpg",
+    "static/media/chungju_place.jpg": "/gaview/static/media/chungju_place.118deac89ad9b70b2f0e.jpg",
+    "static/media/digital_art_10.jpg": "/gaview/static/media/digital_art_10.54231b3f563689a4f95e.jpg",
+    "static/media/MMca4.jpg": "/gaview/static/media/MMca4.03de688c189f90e26bc3.jpg",
+    "static/media/decsugung_place.jpg": "/gaview/static/media/decsugung_place.40ed5f3dd4f5035934f8.jpg",
+    "static/media/gachon_place.jpg": "/gaview/static/media/gachon_place.2e2b41696da62ebc1645.jpg",
+    "static/media/seoul_place.jpg": "/gaview/static/media/seoul_place.7f247d06ba0810010432.jpg",
+    "static/media/logo.jpg": "/gaview/static/media/logo.3fbe3f6a30a03d52f3a7.jpg",
+    "index.html": "/gaview/index.html",
+    "main.ba58c881.css.map": "/gaview/static/css/main.ba58c881.css.map",
+    "main.41d9bc67.js.map": "/gaview/static/js/main.41d9bc67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba58c881.css",
+    "static/js/main.41d9bc67.js"
+  ]
+}
